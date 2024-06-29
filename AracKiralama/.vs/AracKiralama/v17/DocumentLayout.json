@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|c:\\users\\syzng\\desktop\\arackiralama\\arackiralama\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmana\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmana\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmana\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmana\\frmayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\formbilgiler\\frmmusteribilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\formbilgiler\\frmmusteribilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\formbilgiler\\frmmusteribilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\formbilgiler\\frmmusteribilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmana\\frmmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmana\\frmmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmana\\frmmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmana\\frmmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmaracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmaracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmaracduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmaracduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmaracduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmaracduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmaracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmaracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\formbilgiler\\frmaracbilgileritum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\formbilgiler\\frmaracbilgileritum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmyenimusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\formbilgiler\\frmaracbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\formbilgiler\\frmaracbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\formbilgiler\\frmaracbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\formbilgiler\\frmaracbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmana\\frmarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmana\\frmarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\formbilgiler\\frmaracbilgilerikiralik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\formbilgiler\\frmaracbilgilerikiralik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\formbilgiler\\frmaracbilgilerikiralik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\formbilgiler\\frmaracbilgilerikiralik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\formbilgiler\\frmmusteriarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\formbilgiler\\frmmusteriarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\formbilgiler\\frmmusteriarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\formbilgiler\\frmmusteriarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\formbilgiler\\frmaracbilgileritum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\formbilgiler\\frmaracbilgileritum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\frmana\\frmarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\frmana\\frmarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|C:\\Users\\Syzng\\Desktop\\AracKiralama\\arackiralama\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}|AracKiralama\\AracKiralama.csproj|solutionrelative:arackiralama\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\Program.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\Program.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\Program.cs",
+              "RelativeToolTip": "AracKiralama\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:35:04.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmMusteriBilgileri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmMusteriBilgileri.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FormBilgiler\\FrmMusteriBilgileri.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmMusteriBilgileri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmMusteriBilgileri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:43:17.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMusteriBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmMusteriBilgileri.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FormBilgiler\\FrmMusteriBilgileri.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmMusteriBilgileri.cs",
+              "RelativeToolTip": "AracKiralama\\FormBilgiler\\FrmMusteriBilgileri.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAhwF0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:44:06.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMainPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmMainPage.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmMainPage.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\Ara\u00E7 Kiralama\\AracKiralama\\AracKiralama\\FrmMainPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\Ara\u00E7 Kiralama\\AracKiralama\\AracKiralama\\FrmMainPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:35:32.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmAracBilgileri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileri.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FormBilgiler\\FrmAracBilgileri.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:43:01.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMainPage.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmMainPage.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmMainPage.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmMainPage.cs",
+              "RelativeToolTip": "AracKiralama\\FrmMainPage.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAApwG4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:36:50.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAyarlar.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAna\\FrmAyarlar.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmAna\\FrmAyarlar.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAna\\FrmAyarlar.cs",
+              "RelativeToolTip": "AracKiralama\\FrmAna\\FrmAyarlar.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:57:55.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AracKiralama\\FrmGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:28:52.908Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmKayitOl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmKayitOl.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmKayitOl.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmKayitOl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AracKiralama\\FrmKayitOl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:52:34.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmMusteri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAna\\FrmMusteri.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmAna\\FrmMusteri.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FrmAna\\FrmMusteri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FrmAna\\FrmMusteri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:12:50.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmGiris.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmGiris.cs",
+              "RelativeToolTip": "AracKiralama\\FrmGiris.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAuwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:34:16.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAyarlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAna\\FrmAyarlar.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmAna\\FrmAyarlar.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\Ara\u00E7 Kiralama\\AracKiralama\\AracKiralama\\FrmAna\\FrmAyarlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\Ara\u00E7 Kiralama\\AracKiralama\\AracKiralama\\FrmAna\\FrmAyarlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:56:14.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAracDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAracDuzenle.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmAracDuzenle.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FrmAracDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FrmAracDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:11:29.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAna\\FrmMusteri.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmAna\\FrmMusteri.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAna\\FrmMusteri.cs",
+              "RelativeToolTip": "AracKiralama\\FrmAna\\FrmMusteri.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAASwDQBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:17:16.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmKayitOl.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmKayitOl.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmKayitOl.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmKayitOl.cs",
+              "RelativeToolTip": "AracKiralama\\FrmKayitOl.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAmwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:54:02.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmAracEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAracEkle.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmAracEkle.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FrmAracEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FrmAracEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:51:53.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmYeniMusteri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmYeniMusteri.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmYeniMusteri.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FrmYeniMusteri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FrmYeniMusteri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:15:51.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmAracEkle.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAracEkle.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmAracEkle.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAracEkle.cs",
+              "RelativeToolTip": "AracKiralama\\FrmAracEkle.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwEMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:51:54.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmAracBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileri.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FormBilgiler\\FrmAracBilgileri.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileri.cs",
+              "RelativeToolTip": "AracKiralama\\FormBilgiler\\FrmAracBilgileri.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:43:48.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmAracDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAracDuzenle.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmAracDuzenle.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAracDuzenle.cs",
+              "RelativeToolTip": "AracKiralama\\FrmAracDuzenle.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAADgv38AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:25:39.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmArac.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAna\\FrmArac.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmAna\\FrmArac.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAna\\FrmArac.cs",
+              "RelativeToolTip": "AracKiralama\\FrmAna\\FrmArac.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwEcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:26:20.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmAracBilgileriTum.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileriTum.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FormBilgiler\\FrmAracBilgileriTum.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileriTum.cs",
+              "RelativeToolTip": "AracKiralama\\FormBilgiler\\FrmAracBilgileriTum.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCcAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:42:46.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmYeniMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmYeniMusteri.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmYeniMusteri.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmYeniMusteri.cs",
+              "RelativeToolTip": "AracKiralama\\FrmYeniMusteri.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:16:04.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmAracBilgileriKiralik.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileriKiralik.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FormBilgiler\\FrmAracBilgileriKiralik.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileriKiralik.cs",
+              "RelativeToolTip": "AracKiralama\\FormBilgiler\\FrmAracBilgileriKiralik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:43:52.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmAracBilgileriKiralik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileriKiralik.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FormBilgiler\\FrmAracBilgileriKiralik.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileriKiralik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileriKiralik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:43:51.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmMusteriArac.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmMusteriArac.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FormBilgiler\\FrmMusteriArac.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmMusteriArac.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmMusteriArac.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:43:59.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmMusteriArac.cs",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmMusteriArac.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FormBilgiler\\FrmMusteriArac.cs",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmMusteriArac.cs",
+              "RelativeToolTip": "AracKiralama\\FormBilgiler\\FrmMusteriArac.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:44:00.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmAracBilgileriTum.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileriTum.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FormBilgiler\\FrmAracBilgileriTum.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileriTum.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FormBilgiler\\FrmAracBilgileriTum.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:42:59.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmArac.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\FrmAna\\FrmArac.cs",
+              "RelativeDocumentMoniker": "AracKiralama\\FrmAna\\FrmArac.cs",
+              "ToolTip": "C:\\Users\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FrmAna\\FrmArac.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\UfukAydinlioglu\\Desktop\\Projeler\\AracKiralama\\AracKiralama\\FrmAna\\FrmArac.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:54:44.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "AracKiralama\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\Syzng\\Desktop\\AracKiralama\\AracKiralama\\Properties\\Settings.settings",
+              "RelativeToolTip": "AracKiralama\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-13T07:45:51.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

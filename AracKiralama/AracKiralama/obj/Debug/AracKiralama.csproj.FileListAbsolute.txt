@@ -1,0 +1,140 @@
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MainPage.resources
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracEkle.resources
+C:\Users\UfukAydinlioglu\Desktop\Projects\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmGiris.resources
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MainPage.resources
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracEkle.resources
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmGiris.resources
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.MainPage.resources
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracEkle.resources
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmGiris.resources
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\Syzng\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracDuzenle.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracDuzenle.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracEkle.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmGiris.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracBilgileri.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracKirala.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMusteriBilgileri.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracBilgileriKiralik.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracBilgileriTum.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\EntityFramework.dll
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.dll
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\EntityFramework.xml
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.xml
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKira.E8F97AB2.Up2Date
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMusteri.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMainPage.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmArac.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmKira.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmKayitOl.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAyarlar.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMusteriArac.resources
+C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmYeniMusteri.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\EntityFramework.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\EntityFramework.xml
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.xml
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracBilgileri.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracBilgileriKiralik.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracBilgileriTum.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMusteriArac.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmArac.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracDuzenle.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracEkle.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracKirala.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAyarlar.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmGiris.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmKayitOl.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmKira.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMainPage.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMusteri.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMusteriBilgileri.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmYeniMusteri.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKira.E8F97AB2.Up2Date
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\UfukAydinlioglu\Desktop\Projeler\AracKiralama\AracKiralama\bin\Debug\Guna.UI2.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\EntityFramework.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\EntityFramework.xml
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\bin\Debug\System.Data.SQLite.xml
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.AssemblyReference.cache
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracBilgileri.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracBilgileriKiralik.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracBilgileriTum.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMusteriArac.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmArac.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracDuzenle.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracEkle.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAracKirala.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmAyarlar.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmGiris.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmKayitOl.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmKira.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMainPage.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMusteri.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmMusteriBilgileri.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.FrmYeniMusteri.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKira.E8F97AB2.Up2Date
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\UfukAydinlioglu\Desktop\Projeler\Araç Kiralama\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb

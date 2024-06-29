@@ -1,0 +1,1 @@
+Data Source=C:\Users\UfukAydinlioglu\Desktop\AracKiralama\AracKiralama\bin\Debug\Database\dbArackiralama.db

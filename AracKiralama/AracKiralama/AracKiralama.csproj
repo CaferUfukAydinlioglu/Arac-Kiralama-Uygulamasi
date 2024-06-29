@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{85154AAE-83F9-41F3-AFAC-27D8F9AE24A5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AracKiralama</RootNamespace>
+    <AssemblyName>AracKiralama</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.118.0\lib\net46\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.118.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.118.0\lib\net46\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="arcDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>arcDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Baglanti.cs" />
+    <Compile Include="FormBilgiler\FrmAracBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBilgiler\FrmAracBilgileri.Designer.cs">
+      <DependentUpon>FrmAracBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBilgiler\FrmAracBilgileriKiralik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBilgiler\FrmAracBilgileriKiralik.Designer.cs">
+      <DependentUpon>FrmAracBilgileriKiralik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBilgiler\FrmAracBilgileriTum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBilgiler\FrmAracBilgileriTum.Designer.cs">
+      <DependentUpon>FrmAracBilgileriTum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAna\FrmArac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAna\FrmArac.Designer.cs">
+      <DependentUpon>FrmArac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAracDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAracDuzenle.Designer.cs">
+      <DependentUpon>FrmAracDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAracEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAracEkle.Designer.cs">
+      <DependentUpon>FrmAracEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAracKirala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAracKirala.Designer.cs">
+      <DependentUpon>FrmAracKirala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAna\FrmAyarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAna\FrmAyarlar.Designer.cs">
+      <DependentUpon>FrmAyarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGiris.Designer.cs">
+      <DependentUpon>FrmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKayitOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKayitOl.Designer.cs">
+      <DependentUpon>FrmKayitOl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAna\FrmKira.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAna\FrmKira.Designer.cs">
+      <DependentUpon>FrmKira.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMainPage.Designer.cs">
+      <DependentUpon>FrmMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAna\FrmMusteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAna\FrmMusteri.Designer.cs">
+      <DependentUpon>FrmMusteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBilgiler\FrmMusteriBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBilgiler\FrmMusteriBilgileri.Designer.cs">
+      <DependentUpon>FrmMusteriBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBilgiler\FrmMusteriArac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBilgiler\FrmMusteriArac.Designer.cs">
+      <DependentUpon>FrmMusteriArac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmYeniMusteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmYeniMusteri.Designer.cs">
+      <DependentUpon>FrmYeniMusteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormBilgiler\FrmAracBilgileri.resx">
+      <DependentUpon>FrmAracBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBilgiler\FrmAracBilgileriKiralik.resx">
+      <DependentUpon>FrmAracBilgileriKiralik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBilgiler\FrmAracBilgileriTum.resx">
+      <DependentUpon>FrmAracBilgileriTum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBilgiler\FrmMusteriArac.resx">
+      <DependentUpon>FrmMusteriArac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAna\FrmArac.resx">
+      <DependentUpon>FrmArac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAracDuzenle.resx">
+      <DependentUpon>FrmAracDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAracEkle.resx">
+      <DependentUpon>FrmAracEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAracKirala.resx">
+      <DependentUpon>FrmAracKirala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAna\FrmAyarlar.resx">
+      <DependentUpon>FrmAyarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGiris.resx">
+      <DependentUpon>FrmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKayitOl.resx">
+      <DependentUpon>FrmKayitOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAna\FrmKira.resx">
+      <DependentUpon>FrmKira.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMainPage.resx">
+      <DependentUpon>FrmMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAna\FrmMusteri.resx">
+      <DependentUpon>FrmMusteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBilgiler\FrmMusteriBilgileri.resx">
+      <DependentUpon>FrmMusteriBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmYeniMusteri.resx">
+      <DependentUpon>FrmYeniMusteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="arcDataSet.xsc">
+      <DependentUpon>arcDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="arcDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>arcDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="arcDataSet.xss">
+      <DependentUpon>arcDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbArackiralama.db" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\LOGO.png" />
+    <None Include="bin\Debug\images\cornotfound.jpg" />
+    <None Include="bin\Debug\images\user.jpg" />
+    <None Include="bin\Debug\icons\minimize.png" />
+    <None Include="bin\Debug\icons\iconcar.ico" />
+    <None Include="bin\Debug\icons\hide.png" />
+    <None Include="bin\Debug\icons\close.png" />
+    <None Include="bin\Debug\icons\show.png" />
+    <None Include="bin\Debug\icons\settings.png" />
+    <Content Include="icons\calendar.png" />
+    <Content Include="icons\car.png" />
+    <Content Include="icons\caradd.ico" />
+    <Content Include="icons\close.png" />
+    <Content Include="icons\hide.png" />
+    <Content Include="icons\iconcar.ico" />
+    <Content Include="icons\minimize.png" />
+    <Content Include="icons\settings.png" />
+    <Content Include="icons\show.png" />
+    <Content Include="icons\users.png" />
+    <Content Include="images\cornotfound.jpg" />
+    <Content Include="images\LOGO.png" />
+    <Content Include="images\user.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Bu proje bu bilgisayarda olmayan NuGet paketlerine başvuru yapıyor. Bunları indirmek için NuGet Paket Geri Yükleme'yi kullanın. Daha fazla bilgi için, bkz. http://go.microsoft.com/fwlink/?LinkID=322105. Eksik dosya: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <Import Project="..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('..\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.118.0\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>
